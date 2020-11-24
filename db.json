@@ -1,0 +1,56 @@
+{
+  "time_slot": [
+    {
+      "name": "21:00-21:30",
+      "Male": 25,
+      "Female": 25
+    },
+    {
+      "name": "21:30-22:00",
+      "Male": 40,
+      "Female": 50
+    },
+    {
+      "name": "22:00-22:30",
+      "Male": 30,
+      "Female": 500
+    },
+    {
+      "name": "22:30-23:00",
+      "Male": 17,
+      "Female": 15
+    },
+    {
+      "name": "23:00-23:30",
+      "Male": 45,
+      "Female": 18
+    }
+  ],
+  "chat_duration": [
+    {
+      "name": "2 min",
+      "Male": 50,
+      "Female": 5
+    },
+    {
+      "name": "3 min",
+      "Male": 60,
+      "Female": 80
+    },
+    {
+      "name": "5 min",
+      "Male": 40,
+      "Female": 120
+    },
+    {
+      "name": "7 min",
+      "Male": 17,
+      "Female": 15
+    },
+    {
+      "name": "10 min",
+      "Male": 1,
+      "Female": 20
+    }
+  ]
+}
