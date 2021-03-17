@@ -28,27 +28,27 @@
   ],
   "chat_duration": [
     {
-      "name": "2 min",
+      "name": "1 min",
       "Male": 50,
       "Female": 5
     },
     {
-      "name": "3 min",
+      "name": "2 min",
       "Male": 60,
       "Female": 80
     },
     {
-      "name": "5 min",
+      "name": "3 min",
       "Male": 40,
       "Female": 120
     },
     {
-      "name": "7 min",
+      "name": "4 min",
       "Male": 17,
       "Female": 15
     },
     {
-      "name": "10 min",
+      "name": "5 min",
       "Male": 1,
       "Female": 20
     }
